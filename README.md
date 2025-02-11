@@ -1,4 +1,7 @@
-## Olá! Eu sou o Shandel 👋
+# :space_invader: Shandel
+**`Estudante de TI`**
+<br>
+
 ![Shandel GitHub stats](https://github-readme-stats.vercel.app/api?username=Shandel-dev&show_icons=true&theme=merko)
 
 <hr/>
