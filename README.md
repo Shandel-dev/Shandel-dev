@@ -1,6 +1,15 @@
-# :space_invader: Shandel
+# :space_invader: Olá, meu nome é Shandel
 **`Estudante de TI`**
-<br>
+
+Sou um estudante de desenvolvimento de sistemas, gosto de criar e inovar em programas, sempre em busca de aperfeiçoar minhas habilidades. Aqui esta um pouco sobre mim:
+
+## 🚀 Sobre mim
+
+- 🌱 Atualmente estou estudando novas tecnologias e tendências do momento.
+- 👯 Estou participando de um grupo de projeto de TCC.
+- 💬 Pode me perguntas sobre tecnologias referentes a Web e DataBase.
+- ⚡ Fato curioso: Gosto de jogos e gatos :)
+
 
 ![Shandel GitHub stats](https://github-readme-stats.vercel.app/api?username=Shandel-dev&show_icons=true&theme=merko)
 
